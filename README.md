@@ -8,4 +8,4 @@ ACHAL KAMBOJ
 
 ANALYZED DATA OF NETFLIX MOVIES AND TV SHOWS TO GATHER INSIGHTS.
 
-TABLEAU LINK:- https://public.tableau.com/app/profile/achal.kamboj/viz/Book1_16775575116430/Dashboard1
+TABLEAU LINK:- https://public.tableau.com/app/profile/achal.kamboj/viz/NETFLIX_ANALYSIS/Dashboard1
