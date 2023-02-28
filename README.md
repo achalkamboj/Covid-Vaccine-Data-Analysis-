@@ -1,2 +1,11 @@
 # 18CSC301J_RA2011026010028
 Data analysis for Netflix movies
+
+
+RA2011026010028
+
+ACHAL KAMBOJ
+
+ANALYZED DATA OF NETFLIX MOVIES AND TV SHOWS TO GATHER INSIGHTS.
+
+TABLEAU LINK:- https://public.tableau.com/app/profile/achal.kamboj/viz/Book1_16775575116430/Dashboard1
