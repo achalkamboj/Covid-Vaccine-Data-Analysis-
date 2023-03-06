@@ -1,11 +1,10 @@
 # 18CSC301J_RA2011026010028
-Data analysis for Netflix movies
+Data analysis for COVID_19 trends.
 
 
 RA2011026010028
 
 ACHAL KAMBOJ
 
-ANALYZED DATA OF NETFLIX MOVIES AND TV SHOWS TO GATHER INSIGHTS.
 
-TABLEAU LINK:- https://public.tableau.com/app/profile/achal.kamboj/viz/NETFLIX_ANALYSIS/Dashboard1
+TABLEAU LINK:- https://public.tableau.com/shared/NJHC34ZCH?:display_count=n&:origin=viz_share_link
